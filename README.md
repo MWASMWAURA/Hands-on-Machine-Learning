@@ -5,13 +5,13 @@ This Jupyter Notebook demonstrates the process of training and evaluating variou
 ## 📚 Table of Contents
 
 1. [Introduction](ML104-Classification.ipynb#Introduction)
-2. [Understanding our dataset](ML104-Classification.ipynb#Understanding-our-dataset)
-3. [Training a Binary Classifier](ML104-Classification.ipynb#Training-a-Binary-Classifier)
-4. [Performance Measures](ML104-Classification.ipynb#Performance-Measures)
-5. [Multiclass Classification](ML104-Classification.ipynb#Multiclass-Classification)
-6. [Multilabel Classification](ML104-Classification.ipynb#Multilabel-Classification)
-7. [Multioutput Classification](ML104-Classification.ipynb#Multioutput-Classification)
-8. [Credits](ML104-Classification.ipynb#Credits)
+2. [Understanding our dataset](ML104-Classification.ipynb#understanding-our-dataset)
+3. [Training a Binary Classifier](ML104-Classification.ipynb#training-a-binary-classifier)
+4. [Performance Measures](ML104-Classification.ipynb#performance-Measures)
+5. [Multiclass Classification](ML104-Classification.ipynb#multiclass-classification)
+6. [Multilabel Classification](ML104-Classification.ipynb#multilabel-classification)
+7. [Multioutput Classification](ML104-Classification.ipynb#multioutput-classification)
+8. [Credits](ML104-Classification.ipynb#credits)
 
 ## 📖 Introducing our dataset
 
